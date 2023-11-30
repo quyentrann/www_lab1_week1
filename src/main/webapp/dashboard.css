@@ -1,0 +1,42 @@
+.container{
+    width: 60%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    background-color: white;
+}
+
+.form{
+    width: 50%;
+    height: 15%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.btn-submit{
+    width: 160px;
+    height: 50px;
+    background-color: #c1c1c1;
+    color: black;
+    cursor: pointer;
+    margin-right: 10px;
+}
+
+.header{
+    position: relative;
+    width: 100%;
+    height: 60px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.form-logout{
+    position: absolute;
+    right: 20%;
+}
