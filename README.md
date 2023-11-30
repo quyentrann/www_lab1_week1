@@ -36,7 +36,7 @@ Chức năng Cập nhật
 
 ![image](https://github.com/quyentrann/www_lab1_week1/assets/87223234/625b7be9-7237-4c20-98c2-1076cd80fb7e)
 
-Đã Cập nhật
+Đã Cập nhật, còn nếu muốn xóa thì cập nhạt status
 
 
 ![image](https://github.com/quyentrann/www_lab1_week1/assets/87223234/fc10636b-361d-4f4e-9ac0-2aa15b752193)
@@ -57,7 +57,7 @@ Cập nhật Role
 
 ![image](https://github.com/quyentrann/www_lab1_week1/assets/87223234/c92f0fd9-90ae-40dc-b25c-c80ead06e70b)
 
-Đã Cập nhật
+Đã Cập nhật, nếu muốn xóa thì cập nhật status
 
 
 ![image](https://github.com/quyentrann/www_lab1_week1/assets/87223234/23fc8731-6194-451d-9508-6f7249f83acb)
