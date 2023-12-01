@@ -16,6 +16,11 @@ Hiển thị thông tin tài khoản
 
 ![image](https://github.com/quyentrann/www_lab1_week1/assets/87223234/13979441-9e78-4d3d-b035-f6b988ec1a19)
 
+Đăng xuất ghi vào log
+
+![image](https://github.com/quyentrann/www_lab1_week1/assets/87223234/542dae44-1b36-4eb6-83fe-22060aa4d7a8)
+
+
 
 Đăng nhập với tài khoản admin
 
